@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins&display=swap');
 
-
+body {
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    width: 100%;
+}
 a:hover {
 text-decoration:underline;
 }
@@ -9,11 +14,36 @@ a {
     text-decoration: none;
 }
 
-#menu {
+#menu li{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
+    display:inline;
+    float:right;
+    margin-right: 5px;
+    padding: 4px;
 }
 
 p {
     font-family: 'Oswald', sans-serif;
+}
+
+#header {
+    height: 75px;
+    background-color: darkslategray;
+    width:auto;
+    
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+
+}
+
+#logo {
+    
+    display:inline;
+    float:left;
+    margin-left: 5px;
+    padding: 4px;
 }
