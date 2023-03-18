@@ -90,3 +90,20 @@ float:left;
 width: 60%;
 
 }
+
+#about {
+    padding-top: 30px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#about > h2 {
+    font-size: 200%;
+}
+
+#about img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:100%;
+}
