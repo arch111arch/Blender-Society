@@ -102,8 +102,14 @@ width: 60%;
     font-size: 200%;
 }
 
-#about img {
+#about #img1 {
     padding-top: 20px;
     padding-bottom: 20px;
     width:100%;
+}
+
+#about #img2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:50%;
 }
