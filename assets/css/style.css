@@ -10,7 +10,18 @@
 body {
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
+    color:rgb(7, 34, 34);
 }
+
+/* Headers */
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: rgb(3, 19, 19);
+
+}
+
 a:hover {
 text-decoration:underline;
 }
@@ -36,16 +47,9 @@ a {
     
 }
 
-h1 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 20px;
-
-}
-
 #logo {
-    
-    display:inline;
-    float:left;
+    float: left;
+    font-size: 250%;
     margin-left: 5px;
     padding: 4px;
 }
