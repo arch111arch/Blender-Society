@@ -28,17 +28,25 @@ text-decoration:underline;
 
 a {
     text-decoration: none;
+    color: inherit;
+    
 }
 
+/* navigation menu links */
 #menu li{
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
-    display:inline;
+    letter-spacing: 4px;
+    font-size: 115%;
     float:right;
     margin-right: 5px;
     padding: 4px;
+    list-style-type: none;
 }
 
+/* set a line hight to make the header elements align */
+#logo, #menu {
+line-height: 75%;
+}
 
 #header {
     height: 75px;
