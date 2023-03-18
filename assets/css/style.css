@@ -45,19 +45,35 @@ a {
 
 /* set a line hight to make the header elements align */
 #logo, #menu {
-line-height: 75%;
+line-height: 75px;
 }
 
 #header {
     height: 75px;
     background-color: darkslategray;
-    width:auto;
+    width:100%;
     
 }
 
 #logo {
     float: left;
-    font-size: 250%;
+    font-size: 200%;
     margin-left: 5px;
     padding: 4px;
+}
+
+#hero {
+    height:600px;
+    width: 100%;
+    background-color: black;
+}
+
+#float-right {
+float:right;
+width: 40%;
+}
+
+#float-left {
+float:left;
+width: 60%;
 }
