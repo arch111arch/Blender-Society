@@ -173,7 +173,7 @@ a {
 
     #header {
         height: 200px;
-        
+
     }
 
     #logo {
@@ -182,4 +182,23 @@ a {
         font-size: 200%;
         padding: 4px;
     }
+}
+
+#form {
+    border-radius: 4px;
+    border: none;
+    border-style: solid;
+    text-align: center;
+    border-color: orange;
+    padding: 10px;
+    background-color: black;
+    margin:0% auto;
+    width: 50%;
+    color: white;
+}
+
+#join-header{
+
+    text-align: center;
+    margin:0% auto;
 }
