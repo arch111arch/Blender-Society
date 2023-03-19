@@ -10,11 +10,12 @@
 body {
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
-    color:rgb(7, 34, 34);
+    color: rgb(7, 34, 34);
 }
 
 /* Headers */
-h1, h2 {
+h1,
+h2 {
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -23,36 +24,37 @@ h1, h2 {
 }
 
 a:hover {
-text-decoration:underline;
+    text-decoration: underline;
 }
 
 a {
     text-decoration: none;
     color: inherit;
-    
+
 }
 
 /* navigation menu links */
-#menu li{
+#menu li {
     font-family: 'Poppins', sans-serif;
     letter-spacing: 4px;
     font-size: 115%;
-    float:right;
+    float: right;
     margin-right: 20px;
     padding: 4px;
     list-style-type: none;
 }
 
 /* set a line hight to make the header elements align */
-#logo, #menu {
-line-height: 75px;
+#logo,
+#menu {
+    line-height: 75px;
 }
 
 #header {
     height: 75px;
     background-color: white;
-    width:100%;
-    
+    width: 100%;
+
 }
 
 #logo {
@@ -64,31 +66,37 @@ line-height: 75px;
 
 /* Container for hero image and text */
 #hero {
-    height:800px;
-    width:100%;
-    background-color: rgb(59, 23, 58);
+    width: 100%;
     overflow: hidden;
     text-align: center;
+    background-image: url("../images/splash_34.jpg");
+    background-repeat: no-repeat;
+    /* splash covers the entire box nomatter the resize */
+    background-size: cover;
+    background-color:darkslategray;
+
+}
+
+/* transparant box with join us text over the splash_32.jpg */
+#cover-box {
+    background-color:rgba(0, 0, 0, 0.3);
+    padding: 2%;
+    float: left;
+    margin-top: 30%;
+    margin-left: 4%;
+    position:relative;
+    margin-block-end: 4%;
+    
     
 }
-
-#float-right {
-float:left;
-width: 30%;
-text-align: center;
-margin-top: 30%;
-font-size: large;
-color: orange;
-}
-
-#float-right > h2 {
+#cover-box > h2 {
     color: white;
+    font-size: 140%;
 }
 
-#float-left img{
-float:left;
-width: 60%;
-
+#cover-box > p {
+    color: orange;
+    font-size: 120%;
 }
 
 #about {
@@ -98,18 +106,18 @@ width: 60%;
     margin-right: 10%;
 }
 
-#about > h2 {
+#about>h2 {
     font-size: 200%;
 }
 
 #about #img1 {
     padding-top: 20px;
     padding-bottom: 20px;
-    width:100%;
+    width: 100%;
 }
 
 #about #img2 {
     padding-top: 20px;
     padding-bottom: 20px;
-    width:50%;
+    width: 50%;
 }
