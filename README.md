@@ -1,4 +1,4 @@
-# PROJECT NAME TO GO HERE
+# BLENDER SOCIETY
 
 👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
 
