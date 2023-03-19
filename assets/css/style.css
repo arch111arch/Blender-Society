@@ -36,14 +36,14 @@ a {
 }
 
 /* navigation menu links */
-#menu>li {
+#menu {
     font-family: 'Poppins', sans-serif;
     letter-spacing: 4px;
     font-size: 115%;
     float: right;
     margin-right: 20px;
     padding: 4px;
-    list-style-type: none;
+    display: block;
 }
 
 #footer li {
@@ -161,4 +161,25 @@ a {
     padding-top: 20px;
     padding-bottom: 20px;
     width: 50%;
+}
+
+@media screen and (max-width: 800px) {
+    #menu {
+        float: none;
+        line-height: 50px;
+        clear: both;
+        text-align: center;
+    }
+
+    #header {
+        height: 200px;
+        
+    }
+
+    #logo {
+        float: none;
+        text-align: center;
+        font-size: 200%;
+        padding: 4px;
+    }
 }
