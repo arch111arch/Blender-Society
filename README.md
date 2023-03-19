@@ -1,13 +1,9 @@
 # BLENDER SOCIETY
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
-
-Add a Blurb about the site here, what does it do, why did you build it?
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Blender-Society/amiresponsive.PNG)
+I made a site dedicated to bring people together who want to learn 3D modelling in an online and social setting.
+Regardless of budget, everyone can learn and explore the free software Blender.
 
 ![Am I responsive](https://github.com/arch111arch/Blender-Society/blob/main/amiresponsive.PNG?raw=true)
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
