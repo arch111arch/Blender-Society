@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins&display=swap');
 
+/* Clear margin, padding and border on the entire page. */
 * {
     margin: 0px;
     padding: 0px;
@@ -23,6 +24,7 @@ h2 {
 
 }
 
+/* styling of link-behaviour */
 a:hover {
     text-decoration: underline;
 }
@@ -34,7 +36,7 @@ a {
 }
 
 /* navigation menu links */
-#menu li {
+#menu>li {
     font-family: 'Poppins', sans-serif;
     letter-spacing: 4px;
     font-size: 115%;
@@ -44,9 +46,19 @@ a {
     list-style-type: none;
 }
 
+#footer li {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 4px;
+    font-size: 115%;
+    padding: 8px;
+    list-style-type: none;
+    display: inline-block;
+}
+
 /* set a line hight to make the header elements align */
 #logo,
-#menu {
+#menu,
+#footer {
     line-height: 75px;
 }
 
@@ -54,7 +66,13 @@ a {
     height: 75px;
     background-color: white;
     width: 100%;
+}
 
+#footer {
+    height: 75px;
+    background-color: white;
+    width: 100%;
+    text-align: center;
 }
 
 #logo {
@@ -73,41 +91,52 @@ a {
     background-repeat: no-repeat;
     /* splash covers the entire box nomatter the resize */
     background-size: cover;
-    background-color:darkslategray;
+    background-color: darkslategray;
 
 }
 
 /* transparant box with join us text over the splash_32.jpg */
 #cover-box {
-    background-color:rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.3);
     padding: 2%;
     float: left;
     margin-top: 30%;
     margin-left: 4%;
-    position:relative;
+    position: relative;
     margin-block-end: 4%;
-    
-    
+
+
 }
-#cover-box > h2 {
+
+#cover-box>h2 {
     color: white;
     font-size: 140%;
 }
 
-#cover-box > p {
+#cover-box>p {
     color: orange;
     font-size: 120%;
 }
 
 #about {
+    width: 100%;
+    background-color: black;
+}
+
+#about div {
     padding-top: 30px;
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
 }
 
-#about>h2 {
+#about h2 {
     font-size: 200%;
+    color: orange;
+}
+
+#about p {
+    color: white;
 }
 
 #about #img1 {
@@ -116,7 +145,19 @@ a {
     width: 100%;
 }
 
-#about #img2 {
+#join {
+    width: 100%;
+    background-color: white;
+}
+
+#join div {
+    padding-top: 30px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#join #img2 {
     padding-top: 20px;
     padding-bottom: 20px;
     width: 50%;
