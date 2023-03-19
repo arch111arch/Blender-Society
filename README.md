@@ -6,7 +6,7 @@ Add a Blurb about the site here, what does it do, why did you build it?
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Blender-Society/amiresponsive.PNG)
 
-![(Blender-Society/amiresponsive.PNG)]
+![Am I responsive](https://github.com/arch111arch/Blender-Society/blob/main/amiresponsive.PNG?raw=true)
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
@@ -18,7 +18,7 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 ## CONTENTS
 
 * [User Experience](#user-experience-ux)
-  * [User Stories](#user-stories)
+  * [User Stories](#user-stories
 
 * [Design](#design)
   * [Colour Scheme](#colour-scheme)
