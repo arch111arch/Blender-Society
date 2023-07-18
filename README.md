@@ -18,6 +18,14 @@ The main idea was a clean, easily read site. As a join-site I kept the details a
 - __Navigation Bar__
 
   - Simple and clearly defined.
+![Navigation](https://github.com/arch111arch/Blender-Society/blob/main/bs_menu.PNG?raw=true)
+
+- __Join Form__
+
+  - A short form for users to join the Blender Society.
+
+![Joibform](https://github.com/arch111arch/Blender-Society/blob/main/bs_join.PNG?raw=true)
+
 
 ## Resposive design
 To ensure the site worked on multiple devices, levels of @media were used to alter the styling for smaller screens.
