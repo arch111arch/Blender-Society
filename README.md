@@ -6,7 +6,7 @@ The main idea was a clean, easily read site. As a join-site I kept the details a
 
 ![Am I responsive](https://github.com/arch111arch/Blender-Society/blob/main/amiresponsive.PNG?raw=true)
 
-- Live Link: https://arch111arch.github.io/Blender-Society/
+
 
 ## Features 
 
@@ -17,12 +17,13 @@ The main idea was a clean, easily read site. As a join-site I kept the details a
 
 - __Navigation Bar__
 
-  - Simple and clearly defined.
+Simple and clearly defined. Mouseover shows a bar below the button for user feedback.
+
 ![Navigation](https://github.com/arch111arch/Blender-Society/blob/main/bs_menu.PNG?raw=true)
 
 - __Join Form__
 
-  - A short form for users to join the Blender Society.
+A short form for users to join the Blender Society. To encourage engagement it is as simple as possible.
 
 ![Joibform](https://github.com/arch111arch/Blender-Society/blob/main/bs_join.PNG?raw=true)
 
@@ -57,7 +58,7 @@ As far as I am aware, there are no bugs in the code.
   - Then as Source, choose main branch.
   - Once the branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://arch111arch.github.io/fire-water-and-ice-game/
+  - Live Link: https://arch111arch.github.io/Blender-Society/
 
 ### Content 
 
