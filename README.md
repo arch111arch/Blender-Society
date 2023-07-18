@@ -19,9 +19,13 @@ The main idea was a clean, easily read site. As a join-site I kept the details a
 
   - Simple and clearly defined.
 
+## Resposive design
+To ensure the site worked on multiple devices, levels of @media were used to alter the styling for smaller screens.
+
+
 ## Testing 
 
-I tested the live site on multiple devices to make sure it worked like intended.
+Testing of the live site on multiple devices and over time was done to make sure it worked like intended. During this process the sizes and positions of the elements, margins and the like was iterated over.
 
 
 ### Validator Testing 
