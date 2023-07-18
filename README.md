@@ -6,6 +6,8 @@ The main idea was a clean, easily read site. As a join-site I kept the details a
 
 ![Am I responsive](https://github.com/arch111arch/Blender-Society/blob/main/amiresponsive.PNG?raw=true)
 
+- Live Link: https://arch111arch.github.io/Blender-Society/
+
 ## Features 
 
 ## Technologies used 
