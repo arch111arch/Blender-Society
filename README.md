@@ -31,9 +31,11 @@ Testing of the live site on multiple devices and over time was done to make sure
 ### Validator Testing 
 
 - HTML
-  - The validator found no errors. https://validator.w3.org/nu/?doc=https%3A%2F%2Farch111arch.github.io%2FBlender-Society%2F
+  - The WC3 validator found no errors.
+  - https://validator.w3.org/nu/?doc=https%3A%2F%2Farch111arch.github.io%2FBlender-Society%2F
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Farch111arch.github.io%2Ffire-water-and-ice-game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+  - No errors were found when passing through the official Jigsaw validator:
+  - http://jigsaw.w3.org/css-validator/validator?lang=sv&profile=css3svg&uri=https%3A%2F%2Farch111arch.github.io%2FBlender-Society%2F&usermedium=all&vextwarning=&warning=1
 
 ### Unfixed Bugs
 
