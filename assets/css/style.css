@@ -29,6 +29,12 @@ input[type="submit"]:hover {
     color: red;
 }
 
+submit:hover
+{
+    background-color:green;
+    color: red;
+
+}
 
 /* styling of link-behaviour */
 a:hover {
