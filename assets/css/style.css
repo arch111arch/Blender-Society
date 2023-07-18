@@ -24,6 +24,12 @@ h2 {
 
 }
 
+form:hover {
+    background-color: green;
+    color: green;
+}
+
+
 /* styling of link-behaviour */
 a:hover {
     text-decoration: underline;
