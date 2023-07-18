@@ -7,11 +7,7 @@ The main idea was a clean, easily read site. As a join-site I kept the details a
 ![Am I responsive](https://github.com/arch111arch/Blender-Society/blob/main/amiresponsive.PNG?raw=true)
 
 
-
 ## Features 
-
-## Technologies used 
-- HTML and CSS
 
 ### Existing Features
 
@@ -27,10 +23,15 @@ A short form for users to join the Blender Society. To encourage engagement it i
 
 ![Joibform](https://github.com/arch111arch/Blender-Society/blob/main/bs_join.PNG?raw=true)
 
+### Features to implement
+- If this site was to be serious, a forum would be added and much more in-depth showcases of Blender and 3D as a whole.
+- As it stands, this is a way to get interested people in the door, the real community would be happening after they join.
 
-## Resposive design
+## Responsive design
 To ensure the site worked on multiple devices, levels of @media were used to alter the styling for smaller screens.
 
+## Technologies used 
+- HTML and CSS
 
 ## Testing 
 
@@ -67,4 +68,5 @@ As far as I am aware, there are no bugs in the code.
 ### Media
 
 - The images are taken from the official Blender.org-site.
+- www.blender.org
 
