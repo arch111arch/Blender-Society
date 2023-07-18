@@ -24,9 +24,9 @@ h2 {
 
 }
 
-form:hover {
-    background-color: green;
-    color: green;
+input[type="submit"]:hover {
+
+    color: red;
 }
 
 
