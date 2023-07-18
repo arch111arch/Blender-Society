@@ -56,7 +56,4 @@ The live link can be found here - https://arch111arch.github.io/fire-water-and-i
 ### Media
 
 - The images are taken from the official Blender.org-site.
-  
-###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
