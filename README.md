@@ -20,12 +20,14 @@ Simple and clearly defined. Mouseover shows a bar below the button for user feed
 - __Join Form__
 
 A short form for users to join the Blender Society. To encourage engagement it is as simple as possible.
+The user is prompted to enter name and email in order to submit the form.
+The submit-button gives visual-feedback by color-changes on mouseover.
 
 ![Joibform](https://github.com/arch111arch/Blender-Society/blob/main/bs_join.PNG?raw=true)
 
 ### Features to implement
-- If this site was to be serious, a forum would be added and much more in-depth showcases of Blender and 3D as a whole.
-- As it stands, this is a way to get interested people in the door, the real community would be happening after they join.
+- If this site was to be a full proper site, a forum would be added and much more in-depth showcases of Blender and 3D as a whole.
+- As it stands, this is a way to get interested people in the door, the real community interactions would be happening after they join.
 
 ## Responsive design
 To ensure the site worked on multiple devices, levels of @media were used to alter the styling for smaller screens.
@@ -35,7 +37,7 @@ To ensure the site worked on multiple devices, levels of @media were used to alt
 
 ## Testing 
 
-Testing of the live site on multiple devices and over time was done to make sure it worked like intended. During this process the sizes and positions of the elements, margins and the like was iterated over.
+Testing of the live site on multiple devices and over time was done to make sure it worked like intended. During this process the image-sizes and positions of the elements, margins and the like was iterated over.
 
 
 ### Validator Testing 
