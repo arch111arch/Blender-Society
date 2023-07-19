@@ -205,6 +205,22 @@ a {
     color: white;
 }
 
+input[type=submit] {
+  background-color: white;
+  border: 2px;
+  border-color: orange;
+  border-style: solid;
+  color: black;
+  padding: 6px 12px;
+  margin: 4px 2px;
+  font-weight: normal;
+}
+
+input[type=submit]:hover {
+  background-color: orange;
+  color: black;
+}
+
 #join-header{
 
     text-align: center;
